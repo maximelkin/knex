@@ -94,7 +94,7 @@
     "cross-env": "^7.0.3",
     "dtslint": "4.0.6",
     "eslint": "^7.17.0",
-    "eslint-config-prettier": "^7.1.0",
+    "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.22.1",
     "husky": "^4.3.7",
     "jake": "^8.1.1",
