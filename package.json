@@ -88,7 +88,7 @@
     "@types/node": "^14.14.20",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "chai-subset-in-order": "^2.1.4",
+    "chai-subset-in-order": "^3.0.0",
     "cli-testlab": "^2.2.0",
     "coveralls": "^3.1.0",
     "cross-env": "^7.0.3",
